@@ -8,11 +8,11 @@ The purpose of this analysis is to prove to W. Avy the sustainability of the sur
 ## Results
 •	It is my opinion that the most important thing to note from the analysis is that the average temperatures for both June and December are just a few degrees shy of being equal with the mean for June being 75 and December 4 degrees lower at 71.
 
-![summary_df.png](https://github.com/CristinaCod/PyBer_Analysis/blob/main/analysis/summary_df.png)
+![june_temps.png](https://github.com/CristinaCod/surfs_up/blob/main/Resources/june_temps.png)
 
 •	As expected, based on the findings of the average temperatures we also see the max temps very close in number as well with a high of 85 in June and 83 in December.
 
-![summary_df.png](https://github.com/CristinaCod/PyBer_Analysis/blob/main/analysis/summary_df.png)
+![dec_temps.png](https://github.com/CristinaCod/surfs_up/blob/main/Resources/dec_temps.png)
 
 •	The only time we see a vast difference in the two months is when we compare total counts with June at 1,700 and December almost 200 less at 1,517. 
 
