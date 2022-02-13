@@ -6,18 +6,18 @@ Ever since a trip to Hawaii last year where I discovered a newfound love of surf
 The purpose of this analysis is to prove to W. Avy the sustainability of the surf n’ shake shop on Oahu throughout the entirety of the year by running queries on temperature trends for the months of June and December.
 
 ## Results
-•	It is my opinion that the most important thing to note from the analysis is that the average temperatures for both June and December are just a few degrees shy of being equal with the mean for June being 75 and December 4 degrees lower at 71.
+•	It is my opinion that the most important thing to note from the analysis is that the average temperatures for both June and December are just a few degrees shy of being equal with the mean for June being 75 and December 4 degrees lower at 71. This can be seen in the summary statistics below for the month of June as well as further below in the summary statistics for December.
 
 ![june_temps.png](https://github.com/CristinaCod/surfs_up/blob/main/Resources/june_temps.png)
 
-•	As expected, based on the findings of the average temperatures we also see the max temps very close in number as well with a high of 85 in June and 83 in December.
+•	As expected, based on the findings of the average temperatures we also see the max temps very close in number as well with a high of 85 in June and 83 in December. This can be seen below in the summary statistics for the month of December and reference above for June as well. 
 
 ![dec_temps.png](https://github.com/CristinaCod/surfs_up/blob/main/Resources/dec_temps.png)
 
 •	The only time we see a vast difference in the two months is when we compare total counts with June at 1,700 and December almost 200 less at 1,517. 
 
 ## Summary
-Based on the analysis we can see that regardless of the season the surf n' shake shop will flourish as the average temperature in Hawaii is fairly equal year round. If we wanted to be 100% sure of this we could easily run queries on each month out of the year and convert the data into a bar graph for presentation to investors.
+Based on the analysis we can see that regardless of the season the surf n' shake shop will flourish as the average temperature in Hawaii is fairly equal year round. If we wanted to be 100% sure of this we could easily run queries on each month out of the year and convert the data into a bar graph for presentation to investors. The positive findings prove to W. Avy and hopefully future investors that the surf n' shake shop is worth it and will bring in great revenue. 
 
 ### Follow-Up
 After launching the surf n' shake shop in Oahu, the next proposal to W. Avy would be for an expansion and to possibly make the shop into a chain. If things go well the queries for this analysis can be repurposed to determine sustainability on other islands such as Maui or Kauai.
